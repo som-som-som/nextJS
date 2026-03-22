@@ -25,3 +25,5 @@ export default function RootLayout({ children }) {
     </html>
   );
 }
+
+// 3. 배포 / npm run build와 npm run start 실행해봄
